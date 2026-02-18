@@ -3,32 +3,32 @@ import sys
 
 class VT:
 
-    keys = ['e43751c0e33926da35e1832aec4b4dbcad650844cdfdad74336afc17070273b7', 
-            '4be42a9328e351a5d44c4d7de9e46a3076c83236b09dbb8ba1d3f3a4f793d428',
-            'ecd9836bbaaa59a929848339ad7de69180765351e1160d99e1b90cb5d9bfdc4c',
-            '0b6a711b11ab64cb583753bebdd1983beea944c0a3c877c75b754770f58072d4',
-            'fb21dffe1a2a1c8e56029b3bd8709f4b0d96e2b0d70f1fcfb4a90ded80284160',
-            '1ef76d73e4dbb0bd24b7501e745516dea9631ef8cfd5b66d5d69d06fc2460bfb',
-            '665d0a6a9ef8f264ac2f490780b9d703d600fe8fc2a20fb2590d63ab4856cee4',
-            '0d736703427883406197dec218c4b1ae388498a3c331c957375eb93e3172059c', 
-            '734d9544bd269c15edb8029c5b61b5d39ebe332f52a07659352d2223dafbaa8f',
-            '8b81b9a4525ad2310bae4dab0ceea573cbc53efee72640a039606d95c1183869',
-            'e6e67a2324db98b444a17d947d3a434f8dff911f627f43db7308399ed0ba549f',
-            'a43d8e38b1ef9272ce67bca3c81027ea42c45dd0a9d57b62f4056e5d6cc3ebd9',
-            '0e13f1c57fbd8a6ce0a3dfcb18f589a169ec882a6c864922812b13286d3718b3',
-            'ade2abeacb8053136ea3ddfc035e462955d7808910c7747f0903afeff000251c',
-            'f2769be661d0e3e02a1a4279fa11c38b788f0bd7d9b0e4f24134c9e6349c0c8b',
-            'f4516f055aed70057661b9b8a1e58ae3a60e1e7add321e1f1ae36224568138cc',
-            '5ae0c536b939534b2cc0725ae4db6f57aff4cdea3015a3d6bacfc3f369815f9a',
-            '906841870e5f6a8c0fb8506ba17580b406de0de74024ebbc1da415a028d3b973',
-            'a9248dcd05624e5505a26ae6f0e52f505617e8b72dd8059532f7a6dbce16ed62',
-            'fc701b7a9913978bb4575fa3003e0122a112537a90795819f742a81b6cc027dd',
-            '874faeca9a5a8f76389a876f760adb6a10aa4ce8d30e36632d5cc79d0d0e81d6',
-            'f83104656be33b32afe29d9b066e76f54a745d2d678c8e92b34bdd186e772216',
-            '272d3bf38d1c5b04703b05de324ab368b59eed20d7d5ee786b2bc657063ee9c8']
+    keys = ['<VT Key>', 
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>', 
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>',
+            '<VT Key>']
 
-    #academic_key = 'e43751c0e33926da35e1832aec4b4dbcad650844cdfdad74336afc17070273b7' # Omar's Academic API key
-    academic_key = '0b6a711b11ab64cb583753bebdd1983beea944c0a3c877c75b754770f58072d4' # Eric's Academic API key
+    #academic_key = '<VT Key>' # Omar's Academic API key
+    academic_key = '<VT Key>' # Eric's Academic API key
     key_flag = 0
     upload_count = 0
 
