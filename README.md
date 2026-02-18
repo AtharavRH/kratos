@@ -1,4 +1,6 @@
 # Kratos
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/02dc700f-bf9b-459b-8ba8-3e73e9bb3db7" />
+
 
 This tool builds on top of [Jedi](https://github.com/TheComputeGuy/Jedi), a fork of [Cyber Forensics Innovation Lab's](https://cyfi.ece.gatech.edu/) [Yoda](https://github.com/CyFI-Lab-Public/YODA), a tool to analyse website backups for malicious plugins delivered via well-known Content Management Systems.
 
